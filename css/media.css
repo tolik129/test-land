@@ -1,0 +1,307 @@
+
+@media screen and (max-width 320px)
+    .main
+    position: fixed
+    background: #FFFFFF
+    padding: 5px
+              border-radius: 5px
+                              margin: 0 auto
+                                        width: 100%
+    z-index: 2
+    .navbar
+    margin: 0 auto
+              display: inline-block
+              .navbar-nav
+&> li a:hover,
+&> li a:active
+ background-color: #ffb500
+ border-radius: 10px
+                  color: #fff
+                  text-decoration: none
+                  a
+                  color: #000000
+                  font-size: 16px
+                               font-weight: bold
+                               margin-right: 20px
+                                               .bloc-1
+                                               background: url("../img/bg-1-mob.png") no-repeat
+                                                                                      height: 430px
+                                                                                                 padding-top: 70px
+                                                                                                                h2
+                                                                                                                color: #ffffff
+                                                                                                                font-size: 21px
+                                                                                                                             font-family: "Open Sans", sans-serif
+                                                                                                                                                       text-transform: uppercase
+                                                                                                                                                       font-weight: bold
+                                                                                                                                                       text-shadow: 0px 0px 0px #000, -2px 6px 23px #000
+                                                                                                                                                                                                 h1
+                                                                                                                                                                                                 color: #ffffff
+                                                                                                                                                                                                 font-size: 28px
+                                                                                                                                                                                                              font-family: "Open Sans", sans-serif
+                                                                                                                                                                                                                                        text-transform: uppercase
+                                                                                                                                                                                                                                        font-weight: bold
+                                                                                                                                                                                                                                        text-shadow: 0px 0px 0px #000, -2px 6px 23px #000
+                                                                                                                                                                                                                                                                                  h3
+                                                                                                                                                                                                                                                                                  color: #ffffff
+                                                                                                                                                                                                                                                                                  font-size: 17px
+                                                                                                                                                                                                                                                                                               font-family: "Open Sans", sans-serif
+                                                                                                                                                                                                                                                                                                                         font-weight: bold
+                                                                                                                                                                                                                                                                                                                         span
+                                                                                                                                                                                                                                                                                                                         background: #ffffff
+                                                                                                                                                                                                                                                                                                                         padding: 2px
+                                                                                                                                                                                                                                                                                                                                   color: #629de6
+                                                                                                                                                                                                                                                                                                                                   border-radius: 5px
+                                                                                                                                                                                                                                                                                                                                                   font-size: 17px
+                                                                                                                                                                                                                                                                                                                                                                line-height: 30px
+                                                                                                                                                                                                                                                                                                                                                                               .block-2
+                                                                                                                                                                                                                                                                                                                                                                               display: none
+
+                                                                                                                                                                                                                                                                                                                                                                               .block-2
+                                                                                                                                                                                                                                                                                                                                                                               background-image: url("../img/bg-2.png")
+    background-repeat: no-repeat
+    background-position: center
+    height: 417px
+               margin-top: -2px
+                             align-content: center
+                             h2
+                             color: #000000
+                             font-size: 45px
+                                          font-family: "Open Sans", sans-serif
+                                                                    text-transform: uppercase
+                                                                    font-weight: bold
+                                                                    text-align: center
+
+                                                                    .block-3
+                                                                    padding-top: 20px
+                                                                                   .bg
+                                                                                   background: #2087d9
+                                                                                   padding: 15px
+                                                                                              border-radius: 5px
+                                                                                                              text-align: center
+                                                                                                              box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    p
+    color: #ffffff
+    font-size: 18px
+                 font-family: "Open Sans", sans-serif
+                                           font-weight: bold
+                                           form
+                                           margin-top: 30px
+                                                         input
+                                                         background-image: url("../img/mail.png")
+    background-repeat: no-repeat
+    padding: 10px
+               padding-left: 50px
+                               background-position: 10px
+                                                      background-color: #ffffff
+                                                      border-radius: 10px
+                                                                       width: 100%
+    color: #364552
+    font-size: 16px
+                 border: none
+                 button
+                 background: #ffb500
+                 padding: 10px
+                            border-radius: 5px
+                                            width: 100%
+    color: #ffffff
+    text-transform: uppercase
+    border: none
+    font-weight: bold
+    font-size: 15px
+                 margin-top: 10px
+                               span
+                               color: #ffffff
+                               font-size: 18px
+                                            font-family: "Open Sans", sans-serif
+                                                                      .politick
+                                                                      width: 20px
+
+
+                                                                               .block-4
+                                                                               background-image: url("../img/bg-4.png")
+    background-repeat: no-repeat
+    padding-top: 30px
+                   padding-bottom: 20px
+                                     h2
+                                     color: #000000
+                                     font-size: 36px
+                                                  font-family: "Open Sans", sans-serif
+                                                                            text-transform: uppercase
+                                                                            font-weight: bold
+                                                                            text-align: center
+                                                                            margin-bottom: 62px
+                                                                                             h3
+                                                                                             background: #ffb500
+                                                                                             color: #ffffff
+                                                                                             border-radius: 10px
+                                                                                                              font-size: 21px
+                                                                                                                           padding: 3px
+                                                                                                                                     width: max-content
+                                                                                                                                     font-family: "Open Sans", sans-serif
+                                                                                                                                                               text-transform: uppercase
+                                                                                                                                                               font-weight: bold
+
+                                                                                                                                                               .gotovka
+                                                                                                                                                               border-radius: 10px
+                                                                                                                                                                                box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    background: #3d9f3d
+    padding: 5px
+              margin-top: 16px
+                            margin-bottom: 20px
+                                             width: 100%
+    p
+    font-family: "Open Sans", sans-serif
+                              font-size: 17px
+                                           color: #ffffff
+                                           margin: 0
+    .big-title
+    font-weight: bold
+    span
+    font-weight: bold
+    .brand
+    position: relative
+    width: 100%
+    border: 1px solid #000000
+             background: #ffffff
+             height: 140px
+                        border-radius: 10px
+                                         box-shadow: 0 0 10px rgba(0,0,0,0.5)
+    text-align: center
+    margin-bottom: 56px
+                     img
+                     z-index: 1
+    width: 66%
+    .procent
+    position: absolute
+    top: 10px
+           left: 0
+    background: red
+    width: 40px
+             height: 20px
+                       padding-left: 10px
+                                       color: #ffffff
+                                       font-weight: bold
+                                       border-bottom-right-radius: 5px
+                                                                    border-top-right-radius: 5px
+                                                                                              .image
+                                                                                              opacity: 1
+    display: block
+    width: 100%
+    z-index: 1
+    height: auto
+    transition: .5s ease
+                  backface-visibility: hidden
+                  .middle
+                  transition: .5s ease
+                                opacity: 0
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    -ms-transform: translate(-50%, -50%)
+    text-align: center
+    .brand:hover
+    opacity: 1
+    background: #4a9ff4
+    z-index: 10
+    .brand:hover .middle
+    opacity: 1
+    z-index: 2
+    .text
+    background-color: #ffb500
+    color: white
+    font-size: 16px
+                 padding: 16px
+                            border-radius: 10px
+                                             text-transform: uppercase
+                                             font-weight: bold
+
+                                             .block-5
+                                             background-image: url("../img/bg-2-mob.png")
+    height: 394px
+               background-repeat: no-repeat
+               padding-top: 48px
+                              text-align: center
+                              h2
+                              text-transform: uppercase
+                              color: #ffffff
+                              font-weight: bold
+                              font-size: 24px
+                                           h3
+                                           color: #ffffff
+                                           font-size: 16px
+                                                        span
+                                                        font-weight: bold
+                                                        text-transform: uppercase
+                                                        button
+                                                        background: #ffb500
+                                                        padding: 10px 50px 10px 50px
+                                                                                                                                                                                                                                  margin-top: 30px
+                                                                                                text-transform: uppercase
+                                                                                                border: none
+                                                                                                color: #ffffff
+                                                                                                font-weight: bold
+                                                                                                border-radius: 10px
+                                                                                                                 font-size: 20px
+
+
+
+                                                                                                                              .block-6
+                                                                                                                              background: url("../img/bg-5.png") no-repeat
+                                                                                                                                                                 padding-top: 18px
+                                                                                                                                                                                padding-bottom: 20px
+                                                                                                                                                                                                  h2
+                                                                                                                                                                                                  text-transform: uppercase
+                                                                                                                                                                                                  color: #000000
+                                                                                                                                                                                                  font-weight: bold
+                                                                                                                                                                                                  font-size: 26px
+                                                                                                                                                                                                               text-align: center
+                                                                                                                                                                                                               .panel
+                                                                                                                                                                                                               border: 2px solid #ffffff
+                                                                                                                                                                                                                        .panel-heading
+                                                                                                                                                                                                                        background: #f7faff!important
+    -moz-border-radius-topleft: 10px
+                                  -moz-border-radius-topright: 10px
+                                                                 padding-top: 40px
+                                                                                padding-bottom: 40px
+                                                                                                  border: none!important
+    border-top-left-radius: 3px
+                             border-top-right-radius: 3px
+                                                       border-bottom-left-radius: 3px!important
+    border-bottom-right-radius: 3px!important
+&:focus
+ background: #2aabd2!important
+    .panel-title
+    position: relative
+    .panel-title::after
+    content: "\f107"
+    color: #333
+    top: -2px
+           right: 0px
+                   position: absolute
+                   font-family: "FontAwesome"
+    .panel-title[aria-expanded="true"]::after
+    content: "\f106"
+
+
+    footer
+    padding-top: 30px
+                   padding-bottom: 30px
+                                     background: #4a4a4a
+                                     text-align: center
+                                     color: #ffffff
+                                     ul
+                                     text-align: center
+                                     width: 100%
+    margin: 0 auto
+              margin-bottom: 80px
+                               li
+                               float: left
+                               margin-right: 41px
+                                               list-style: none
+                                               a
+                                               color: #ffffff
+                                               font-weight: bold
+                                               font-size: 16px
+        &:hover
+                                                            color: #ffffff
